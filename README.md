@@ -32,6 +32,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 ### Design of Application (Mock-Up)
 Below shows what the application looks like.
+![Screenshot 2023-07-31 190943](https://github.com/Lukiangelxd/Password-Generator/assets/133689246/a75d4171-6eb3-4685-91d9-d033e20f5fdc)
 
 
 ### Credits
